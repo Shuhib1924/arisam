@@ -60,10 +60,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 636px;
-  }
-
   .u-section-1 .u-form-1 {
     margin-top: 162px;
     margin-bottom: 18px;
@@ -84,10 +80,6 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 611px;
-  }
-
   .u-section-1 .u-form-1 {
     margin-top: 155px;
     width: auto;
@@ -97,10 +89,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 841px;
-  }
-
   .u-section-1 .u-form-1 {
     height: 578px;
     margin-top: 209px;
